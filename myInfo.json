@@ -1,0 +1,25 @@
+{
+    "firstName":"Mauricio",
+    "lastName": "Ortiz",
+    "middleName": "Ricardo",
+    "currentAge": "19",
+    "major":"Computer Science",
+    "favorites":[
+        {"type":"anime","status":"OnGoing","name":"BoFuri"},
+        {"type":"anime","status":"Finished","name":"Sword Art Online"},
+        {"type":"anime","status":"Waiting for new season","name":"Log Horizon"},
+        {"type":"anime","status":"Waiting for new season","name":"JoJo's Bizarre Adventure"},
+        {"type":"netflix show","status":"Waiting for new season","name":"The Witcher"},
+        {"type":"netflix show","status":"Waiting for new season","name":"Lost in Space"},
+        {"type:":"sport","status":"Not Practicing", "name":"Basketball"}
+    ],
+
+    "hobbies":[
+    {"hobby": "Video Games"},
+    {"hobby": "Drawing"},
+    {"hobby": "Watch shows/anime"},
+    {"hobby": "Read"}
+    ]
+}
+
+    
