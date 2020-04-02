@@ -1,5 +1,13 @@
-[
-    { "Name":"Mauricio Ortiz", "Email":"mauriciorortizvel@lewisu.edu", "ContactURL":"https://websitemo-azure.azurewebsites.net/myInfo.json" }, 
-    { "Name":"Thresh, The Chain Warden", "Email":"takethelantern@gmail.com", "ContactURL":"https://websitemo-azure.azurewebsites.net/threshInfo.json" }, 
-    { "Name":"Jinx, The Loose Cannon", "Email":"rockets_and_explosions@gmail.com", "ContactURL":"https://websitemo-azure.azurewebsites.net/jinxInfo.json" }
-]
+{
+    "firstName": "Jinx",
+    "lastName": "Unknown",
+    "preferredName": "Jinx, The Loose Cannon",
+    "email": "rockets_and_explosions@gmail.com",
+    "phoneNumber": "",
+    "city": "Zaun",
+    "state": "???",
+    "zip": "42069",
+    "lat": "???",
+    "lng": "???",
+    "favoriteHobby": "Shooting Robots"
+}
